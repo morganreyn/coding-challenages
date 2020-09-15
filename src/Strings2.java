@@ -1,7 +1,7 @@
-public class Strings {
+public class Strings2 {
 
     public static void main (String[] args) {
-        System.out.println(catDog("ccatdogcatat"));
+
     }
 
     /**
@@ -31,7 +31,7 @@ public class Strings {
         int dogs = countSubString(str, "dog");
         return cats == dogs;
     }
-    public static int countSubString(final String input, final String sub) {
+    private static int countSubString(final String input, final String sub) {
         int count = 0;
         int idx = 0;
         while (input.indexOf(sub, idx) != -1) {
