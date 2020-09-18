@@ -3,3 +3,43 @@
 While doing coding challenges, I like to keep the solution and the original prompt so that I can refer back to them later.
 
 * https://codingbat.com/java
+
+## Interviewing / Coding Challenge Good Habits
+
+Be familiar with data structures and when best to use them including:
+* Hash Tables
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Tries
+* Graphs
+* Vectors
+* Heaps
+
+Familiarize yourself with fundimental algorithms:
+* Breadth-first search
+* Depth-first search
+* Merge sort
+
+Ask questions about the problem even if it seems strait-forward. You want to make sure that what you are doing is the 
+same as what the customer is expecting. Think about:
+* Input - Expected values, data types, structure, null values, bad data, etc.
+* Output - Expected values, data types, structure, object vs console
+
+Walk through the algorithm before starting coding. Use a white board/pseudocode/comments if you need to write down your
+thought process. Check your thought process with your interviewer. 
+
+Talk about your assumptions in the problem.
+* Data structures needed to be implemented
+
+Make it clear what direction you are going to go. Talk about what steps you will do next so that the other person
+understands your direction.
+
+Run through a test case to ensure that it will do what you think it will. Once that is done, you might want to consider 
+going through an unhappy path to ensure that edge cases are taken care of. 
+
+Algorithms are better than others in different circumstances. Think about what differences there are in the algorithms
+and when to use them. Think about your solution and see if there is a better way (more efficient in time or space) to
+accomplish the same goal. 
+* Big(O) notation
