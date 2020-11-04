@@ -7,17 +7,17 @@ While doing coding challenges, I like to keep the solution and the original prom
 ## Interviewing / Coding Challenge Good Habits
 
 Be familiar with data structures and when best to use them including:
-* Hash Tables
-* Linked Lists
-* Stacks
-* Queues
-* Trees
+* Hash Tables: Key, Value pair
+* Linked Lists: Items that point to the next item in the list
+* Stacks: LIFO - Last In First Out
+* Queues: FIFO - First In First Out
+* Trees: Node with children nodes
 * Tries
-* Graphs
-* Vectors
-* Heaps
+* Graphs: Linked Nodes
+* Vectors: Dynamic lists that resize when needed
+* Heaps: Complete ordered binary tree 
 
-Familiarize yourself with fundimental algorithms:
+Familiarize yourself with fundamental algorithms:
 * Breadth-first search
 * Depth-first search
 * Merge sort
@@ -26,6 +26,11 @@ Ask questions about the problem even if it seems strait-forward. You want to mak
 same as what the customer is expecting. Think about:
 * Input - Expected values, data types, structure, null values, bad data, etc.
 * Output - Expected values, data types, structure, object vs console
+
+Think about the data
+* Which algorithm might be best?
+* What if the data is sorted?
+* Would a different data structure work better?
 
 Walk through the algorithm before starting coding. Use a white board/pseudocode/comments if you need to write down your
 thought process. Check your thought process with your interviewer. 

@@ -1,3 +1,5 @@
+package warmups;
+
 public class Array2 {
     /**
      * Return a version of the given array where each zero value in the array is replaced by the largest odd value to
